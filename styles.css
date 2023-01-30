@@ -38,3 +38,12 @@ li {
   padding: 1rem;
   border: 1px solid #ccc;
 }
+
+button{
+ width: 100%;
+ color: white;
+ font-weight: 900;
+ border: none;
+ background-color: blueviolet;
+ padding: 1%;
+}
